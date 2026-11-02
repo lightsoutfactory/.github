@@ -16,6 +16,7 @@ What we learn running all of this goes into the [field notes](https://lightsoutf
 
 Recent field notes:
 
+- [In 14 of our 42 languages, the plural form called "one" is not just for 1](https://lightsoutfactory.ai/field-notes/plural-one-is-not-one/)
+- [1,082 translations had a word in the wrong alphabet. Our checks passed every one.](https://lightsoutfactory.ai/field-notes/letters-of-another-script/)
 - [Our health check restarted a healthy model server eight times in one day](https://lightsoutfactory.ai/field-notes/health-check-restarted-healthy-model/)
 - [A scraper flood on Cloudflare's Free plan: what stopped it, and what we left switched off](https://lightsoutfactory.ai/field-notes/scraper-flood-cloudflare-free-plan/)
-- [We checked every machine translation. The checks were the part that was wrong.](https://lightsoutfactory.ai/field-notes/translation-checks-were-wrong/)
